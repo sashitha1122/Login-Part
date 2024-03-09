@@ -1,0 +1,6 @@
+@NEWTESTBACK_HostAddress = http://localhost:5172
+
+GET {{NEWTESTBACK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
